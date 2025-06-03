@@ -24,3 +24,4 @@ I'm passionate about turning ideas into useful tools through thoughtful design a
 
 
 #### 💬 Let's get in touch! Feel free to DM me for discussion!
+- Portfolio `(soon)`

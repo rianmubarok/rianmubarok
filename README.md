@@ -35,7 +35,7 @@ I’ve also built a mobile app using Dart with Firebase integration for backend 
 ---
 
 ### 📫 Let's Connect!
-- Portfolio (Soon)  
+- Portfolio `(soon)`  
 - Email: `rupacode0@gmail.com`
 
 ---

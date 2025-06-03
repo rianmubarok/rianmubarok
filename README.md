@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Rian 👋</h1>
-<p align="center">
+<h1>Hi, I'm Rian 👋</h1>
+<p>
   <em>Web Developer • Exploring UI/UX, Motion, and App Development</em>
 </p>
 
@@ -39,7 +39,3 @@ I’ve also built a mobile app using Dart with Firebase integration for backend 
 - Email: `rupacode0@gmail.com`
 
 ---
-
-<p align="center">
-  <img src="https://github.com/rianmubarok/rianmubarok/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>

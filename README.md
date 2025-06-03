@@ -7,12 +7,6 @@ I'm passionate about turning ideas into useful tools through thoughtful design a
 - Learning best practices in API development and UI/UX design  
 - Experimenting with small productivity tools and micro-apps  
 
-#### 🛠️ Tech Stack
-I'm currently learning and building with tools that help me bring ideas to life —  
-recently, I've been exploring things like React, Flask, and Vite for web development,  
-alongside Git, MongoDB Atlas, and Figma to support the process.  
-I’ve also built a mobile app using Dart with Firebase integration for backend support.
-
 #### ⚙️ Tools I've Explored
 <p align="left">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />

@@ -3,10 +3,6 @@
   <em>Web Developer • Exploring UI/UX, Motion, and App Development</em>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding animation" />
-</p>
-
 ---
 
 I'm passionate about turning ideas into useful tools through thoughtful design and efficient development workflows.  
@@ -34,14 +30,6 @@ I’ve also built a mobile app using Dart with Firebase integration for backend 
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rianmubarok&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rianmubarok&theme=tokyonight" />
 </p>
 
 ---

@@ -23,13 +23,3 @@ I’ve also built a mobile app using Dart with Firebase integration for backend 
 </p>
 
 #### 💬 Let's get in touch! Feel free to DM me for discussion!
-
-### Statistics
-<span>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianmubarok&layout=compact&hide=php&langs_count=6" />
-</span>
-<span>
-  <a href="https://wakatime.com/@rianmubarok">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=rianmubarok&layout=compact&langs_count=6" />
-  </a>
-</span>

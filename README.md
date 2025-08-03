@@ -2,12 +2,7 @@
 
 I'm passionate about turning ideas into useful tools through thoughtful design and efficient development workflows.  
 
-#### 🚀 Current Focus
-- Building personal projects to sharpen fullstack skills  
-- Learning best practices in API development and UI/UX design  
-- Experimenting with small productivity tools and micro-apps  
-
-#### ⚙️ Tools I've Explored
+#### Tools I've Explored
 <p align="left">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
@@ -18,7 +13,3 @@ I'm passionate about turning ideas into useful tools through thoughtful design a
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
-
-
-#### 💬 Let's get in touch! Feel free to DM me for discussion!
-- Portfolio `(soon)`
